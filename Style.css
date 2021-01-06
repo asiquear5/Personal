@@ -1,0 +1,84 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-size: 15px;
+}
+
+#name{
+    color: rgb(228, 17, 87);
+    font-size:40px ;
+    font-weight: 900;
+}
+.half-width{
+    float: left;
+    width:40%;  
+    margin-left: 5%; 
+    padding-left: 2%;
+}
+.half-width img{
+    width:70%
+}
+.first-sec{
+    background-image: url("header-bg.png") ;
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(221, 120, 167),rgb(233, 22, 92)) ;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+.second.sec{
+    background-image: url("biography-bg.png") ;
+    background-repeat: no-repeat;
+}
+.third-sec{
+    background-image: url("latest-work-bg.png") ;
+    background-repeat: no-repeat;
+}
+.third-width{
+    box-shadow: 10px 10px 40px white;
+    border-radius: 5px;
+    background-color: white;
+    float: left;
+    width:30%;  
+    margin-left: 20px;
+}
+.third-sec img{
+    width: 100%;
+}
+.fourth-sec{
+    text-align: center;
+}
+.next-link{
+    padding: 60px 30px ;
+}
+#color{
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+    text-decoration: none;
+}
+.last-section{
+    background-image: url("footer-bg.png") ;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+footer p{
+    text-align-last: center;
+}
